@@ -1,83 +1,42 @@
-# Adnan Khan
-### Software Engineering Student | MERN Stack Developer
+## Hi there, I'm [Your Name] 👋
 
-## About Me
+I'm a [Your Role, e.g., Full-Stack Developer / Software Engineering Student] passionate about building clean, functional web applications.
 
-I am a Software Engineering student with a strong interest in full-stack web development and software engineering. I enjoy developing web applications, understanding how systems work, and solving practical programming problems.
-
-My current focus is on MERN Stack Development, where I am building my understanding of frontend development, backend architecture, REST APIs, database management, and application development.
-
-I believe in continuous learning and improving my technical skills through practical projects and hands-on experience.
-
-## Technical Skills
-
-**Frontend Development**
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Bootstrap
-
-**Backend Development**
-- Node.js
-- Express.js
-- REST API Development
-- FastAPI
-
-**Databases**
-- MongoDB
-- MySQL
-
-**Programming Languages**
-- JavaScript
-- C++
-- Python
-
-**Development Tools**
-- Git
-- GitHub
-- Visual Studio Code
-- Windows Terminal
-
-## Projects
-
-**ShopSphere – E-commerce Web Application**
-
-A MERN Stack e-commerce project currently under development. The objective is to build a complete online shopping platform with product management, customer functionality, and an administrative dashboard.
-
-Technologies: React.js, Node.js, Express.js, MongoDB.
-
-**Smart Campus Management System**
-
-A full-stack web application developed to simplify student record management and campus administration. The system includes student management, authentication, dashboard statistics, and protected API routes.
-
-Technologies: React.js, Node.js, Express.js, MongoDB.
-
-**Wanderlust – Web Development Project**
-
-A web development project focused on travel listings and destination exploration, developed to gain practical experience in building interactive web applications.
-
-## Current Learning Focus
-
-- Improving MERN Stack development skills
-- Understanding backend architecture and MVC patterns
-- Building secure and scalable REST APIs
-- Database design and management
-- Exploring Data Science and Machine Learning
-- Learning DevOps fundamentals and deployment workflows
-
-## Professional Interests
-
-- Full-Stack Web Development
-- Software Engineering
-- Backend Development
-- Data Science
-- DevOps and Cloud Technologies
-
-## Career Objective
-
-My objective is to become a skilled software developer capable of designing, developing, and maintaining reliable real-world applications. I am continuously working to strengthen my programming fundamentals, gain practical experience, and prepare myself for professional opportunities in the software industry.
+- 🔭 **Currently working on:** [Twitter Clone](https://github.com/YOUR-USERNAME/twitterclone) — a full-stack social media web app
+- 🌱 **Currently learning:** [e.g., TypeScript, Next.js, Docker]
+- 💬 **Ask me about:** [e.g., React, Node.js, JavaScript, REST APIs]
+- 📫 **Reach me at:** [your.email@example.com]
+- 🔗 **Connect:** [LinkedIn](https://linkedin.com/in/YOUR-PROFILE) • [Portfolio](https://yourportfolio.com)
 
 ---
 
-*Learning through practice. Building through consistency. Growing through experience.*
+### 🛠️ Tech Stack
+
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+**Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+- **[Twitter Clone](https://github.com/YOUR-USERNAME/twitterclone)** — Social feed application with user authentication, posts, and real-time interactions.
+- **[Project Two](https://github.com/YOUR-USERNAME/project-two)** — Short one-line description of what it does and the main tech used.
+
+---
+
+### 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=transparent&hide_border=true)
